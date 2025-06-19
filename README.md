@@ -1,8 +1,6 @@
 <img align="right" alt="" height="300px" src="https://camo.githubusercontent.com/60b02bd48837dcdcbba92dee82f6641a49b13bca0654c32351f5843ae438caa7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31612f35362f65612f31613536656161616637383836396437633665306536323062326239383339342e676966">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Kaua+Farias!+%E2%98%AE%EF%B8%8F)](https://git.io/typing-svg)
-
-
+<h1>Olá! Eu sou o Kaua!</h1>
 
 <p align="left">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e participante do programa Geração Caldeira 2025. Tenho interesse tanto em Front-end quanto em Back-end. Sou iniciante e estou aprendendo as linguagens Java, JavaScript, HTML e CSS. Pretendo evoluir cada vez mais e aprender novas linguagens :)
 

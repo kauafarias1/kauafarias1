@@ -1,6 +1,6 @@
 <img align="right" alt="" height="300px" src="https://camo.githubusercontent.com/60b02bd48837dcdcbba92dee82f6641a49b13bca0654c32351f5843ae438caa7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31612f35362f65612f31613536656161616637383836396437633665306536323062326239383339342e676966">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8A2BE2&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Kaua+Farias!+%E2%98%AE%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFFFFF&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Kaua+Farias!+%E2%98%AE%EF%B8%8F)](https://git.io/typing-svg)
 
 
 
@@ -11,7 +11,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:kauagabrielfarias18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/kaua-gabriel-de-farias-40901a33a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/kauagabrielrs/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color:FFF)](https://www.instagram.com/kauagabrielrs/)
 
 <h3 align="left">My Stack</h3>
 
@@ -29,8 +29,8 @@
 
 <h3>GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kauafarias1&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly)
-[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kauafarias1&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/kauafarias1/github-readme-stats)
+![Kaua Farias' GitHub stats](https://github-readme-stats.vercel.app/api?username=kauafarias1&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&title_color=FFFFFF&text_color=FFF)
+![Linguagens mais usadas por Kaua Farias](https://github-readme-stats.vercel.app/api/top-langs/?username=kauafarias1&layout=compact&theme=tokyonight&hide_border=true&title_color=FFFFFF&text_color=FFF)
 <br>
 
 

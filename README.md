@@ -4,7 +4,7 @@
 
 
 
-<p align="left">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e participante do programa Geração Caldeira 2025. Tenho interesse tanto em Front-end quanto em Back-end. Sou iniciante e estou aprendendo as linguagens Java, JavaScript, HTML e CSS. Pretendo evoluir cada vez mais e aprender novas linguagens :).
+<p align="left">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas e participante do programa Geração Caldeira 2025. Tenho interesse tanto em Front-end quanto em Back-end. Sou iniciante e estou aprendendo as linguagens Java, JavaScript, HTML e CSS. Pretendo evoluir cada vez mais e aprender novas linguagens :)
 
 
 <h3 align="left">Connect with me!</h3>
